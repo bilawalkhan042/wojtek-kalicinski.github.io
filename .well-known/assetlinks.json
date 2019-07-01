@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "com.bst.arart",
     "sha256_cert_fingerprints":
-    ["B6:94:02:F5:90:8A:DA:79:F4:B7:E9:12:A0:CA:57:35:FB:88:45:A9:4B:09:84:83:BA:CB:AE:ED:EB:91:C9:1E"]
+    ["D1:B6:86:7F:94:ED:39:37:8E:7D:29:40:7B:19:92:49:7E:EA:4F:F5:E5:C5:C9:FC:FD:3E:EB:7B:3A:4F:73:62"]
   }
 }]
